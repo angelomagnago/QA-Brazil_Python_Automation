@@ -15,7 +15,7 @@ class TestUrbanRoutes:
         #Adicionar em S8
         print("função criada para definir a rota")
         pass
-    def test_select_plan(selfself):
+    def test_select_plan(self):
         # Adicionar em S8
         pass
     def test_fill_phone_number(self):

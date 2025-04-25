@@ -18,16 +18,16 @@ class TestUrbanRoutes:
     def test_select_plan(selfself):
         # Adicionar em S8
         pass
-    def test_fill_phone_number(selfself):
+    def test_fill_phone_number(self):
         # Adicionar em S8
         pass
     def test_fill_card(selfSelf):
         # Adicionar em S8
         pass
-    def test_comment_for_driver(selfself):
+    def test_comment_for_driver(self):
         # Adicionar em S8
         pass
-    def test_order_blanket_and_handkerchiefs(selfself):
+    def test_order_blanket_and_handkerchiefs(self):
         # Adicionar em S8
         pass
     def test_order_2_ice_creams(self):
